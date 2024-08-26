@@ -1,7 +1,3 @@
-[![Code Ocean Logo](images/CO_logo_135x72.png)](http://codeocean.com/product)
-
-<hr>
-
 # Bowtie2
 
 Align sequence reads with Bowtie2. Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. It is particularly good at aligning reads of about 50 up to 100s of characters to relatively long (e.g. mammalian) genomes.
@@ -87,7 +83,3 @@ Langmead B, Wilks C, Antonescu V, Charles R. Scaling read aligners to hundreds o
 Langmead B, Salzberg SL. Fast gapped-read alignment with Bowtie 2. Nature Methods. 2012 Mar 4;9(4):357-9. doi: 10.1038/nmeth.1923.
 
 Langmead, B., Trapnell, C., Pop, M. et al. Ultrafast and memory-efficient alignment of short DNA sequences to the human genome. Genome Biol 10, R25 (2009). https://doi.org/10.1186/gb-2009-10-3-r25
-<hr>
-
-[Code Ocean](https://codeocean.com/) is a cloud-based computational platform that aims to make it easy for researchers to share, discover, and run code.<br /><br />
-[![Code Ocean Logo](images/CO_logo_68x36.png)](https://www.codeocean.com)
