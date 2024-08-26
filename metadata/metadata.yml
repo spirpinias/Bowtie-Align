@@ -1,0 +1,17 @@
+metadata_version: 1
+name: Bowtie2
+description: |-
+  Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. It is particularly good at aligning reads of about 50 up to 100s of characters to relatively long (e.g. mammalian) genomes.
+
+  https://github.com/BenLangmead/bowtie2
+
+  https://bowtie-bio.sourceforge.net/bowtie2/manual.shtml
+tags:
+- Alignment
+- Bowtie2
+- Genomics
+- RNA
+- Bulk Sequencing
+- DNA
+authors:
+- name: Stephen Pirpinias
